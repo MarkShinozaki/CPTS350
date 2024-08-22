@@ -15,8 +15,7 @@ CptS350: Design and Analysis of Algorithms
 - **Phone:** 509-338-5089
 - **Lecture Time:** MWF 3:10 - 4:00 PM
 - **Lecture Location:** SPRK G10
-- **TA:** Shlok Tomar
-- **TA Email:** [shlok.tomar@wsu.edu](mailto:shlok.tomar@wsu.edu)
+
 
 ### 4. Textbook, Title, Author, and Year
 - **Title:** Introduction to Algorithms
