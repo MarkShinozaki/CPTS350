@@ -1,4 +1,4 @@
-# CPTS 355 - WASHINGTON STATE UNIVERISTY
+# CPTS 350 - WASHINGTON STATE UNIVERISTY
 ## Algorithm Analysis, Complete Course Navigation
 
 > [!TIP]
@@ -30,4 +30,4 @@
 
 ---
 
-### [Next Course - CPTS 355 -  ](https://github.com/MarkShinozaki/CPTS350-Design-AnalysisOfAlgorithms)
+### [Next Course - CPTS 355 -  ](https://github.com/MarkShinozaki/CPTS355-ProgramLanguageDesign)
