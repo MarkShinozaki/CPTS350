@@ -3,6 +3,10 @@
 ## Objective
 The primary objective of this project was to work with symbolic graphs using Binary Decision Diagrams (BDDs) to perform operations like reachability analysis, transitive closure, and verification of logical statements. The focus was on verifying a specific condition related to the reachability of nodes in a graph constructed using BDDs, specifically checking whether for every prime number node, there exists an even number node that is reachable in a positive even number of steps.
 
+### [Project Rubric Link](https://github.com/MarkShinozaki/CPTS350-Design-AnalysisOfAlgorithms/blob/Project/projectBDD.pdf)
+### [My Project Link](https://github.com/MarkShinozaki/CPTS350-Design-AnalysisOfAlgorithms/blob/Project/350project.py)
+
+
 ## Project Components and Steps
 The project can be broken down into several key steps and components:
 
