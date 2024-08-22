@@ -121,5 +121,115 @@ Homework 4 is focused on the design and analysis of sorting algorithms under str
 
 ---
 
+## [Homework 5](https://github.com/MarkShinozaki/CPTS350-Design-AnalysisOfAlgorithms/blob/Homeworks/Homework%205/Cpts350%20-%20HW5.pdf)
+
+### Requirements:
+
+### 1. Pseudo-code for Partition Algorithm:
+- The first problem asks students to write pseudo-code for the `partition(A, p, q)` function, which is typically a part of the QuickSort algorithm. This tests students' understanding of how to split an array into two parts based on a pivot element.
+
+### 2. Average-Case Complexity of Insertion Sort:
+- The second problem explores the average-case complexity of the Insertion Sort algorithm when the input array has a 1% probability of being monotonically decreasing. Students are required to show that under these conditions, the average-case complexity is Θ(n²).
+
+### 3. Complexity Analysis of `iqsort` Algorithm:
+- The third problem introduces a variant of QuickSort called `iqsort`, where QuickSort is applied to the lower part of the array, and Insertion Sort is applied to the upper part. Students must compute the best-case, worst-case, and average-case time complexities of this hybrid sorting algorithm.
+
+### 4. Complexity Analysis of `mixsort` Algorithm:
+- The fourth problem involves another hybrid sorting algorithm called `mixsort`, where `mixsort` is recursively applied to the lower part, and Insertion Sort is applied to the upper part. Similar to the previous problem, students must compute the best-case, worst-case, and average-case time complexities.
+
+### Topics:
+- Sorting Algorithms: Understanding and implementing sorting algorithms like QuickSort, Insertion Sort, and their hybrids.
+- Time Complexity Analysis: Calculating and comparing the best, worst, and average-case complexities of different algorithms.
+- Algorithm Design: Writing pseudo-code and designing efficient algorithms for sorting and other operations.
+
+### Summary:
+Homework 5 focuses on the design and analysis of sorting algorithms. It challenges students to write pseudo-code, analyze the time complexity of hybrid sorting algorithms, and understand the conditions under which certain sorting algorithms perform optimally or suboptimally. The assignment emphasizes the importance of algorithm design, particularly in balancing different sorting techniques to achieve better performance.
+
+---
+
+## [Homework 6](https://github.com/MarkShinozaki/CPTS350-Design-AnalysisOfAlgorithms/blob/Homeworks/Homework%206/350-HW6.pdf)
+
+### Requirements:
+
+### 1. Maximal and Minimal Element Selection:
+- The assignment requires designing an algorithm that selects both the maximal and minimal elements from an array of `n` elements using only 1.5n comparisons. This involves optimizing the number of comparisons required to find the extremum values.
+
+### 2. Average-Case Complexity Comparison:
+- Students must compare the average-case complexities of two algorithms (S and T) for selecting the smallest elements from an array. The analysis involves determining under what conditions each algorithm outperforms the other based on the choice of `i`.
+
+### 3. Worst-Case Complexity Analysis for Linear Select:
+- The assignment requires demonstrating the worst-case complexities for the linear select algorithm, specifically when the group size `k` is 3 or 7. This extends the complexity analysis taught in class.
+
+### 4. Hybrid Selection Algorithm Analysis:
+- Students are required to analyze a hybrid selection algorithm (`ilselect`) that combines quickselect and linear select. They must compute both the worst-case and average-case time complexities for this algorithm.
+
+### 5. Sorting with a Minimal Number of Operations:
+- The final problem involves determining the minimal number of operations required to sort `n` distinct numbers using a specific operation (5com), which sorts five numbers at a time.
+
+### Topics:
+- **Algorithm Design and Optimization:** Focusing on optimizing comparisons for selecting maximal and minimal elements.
+- **Complexity Analysis:** Detailed comparison of average-case complexities, worst-case analysis, and hybrid algorithms.
+- **Sorting Algorithms:** Understanding the complexity and efficiency of sorting with minimal operations using specific constraints.
+
+### Summary:
+Homework 6 is designed to test students on advanced algorithmic concepts, particularly in optimizing and analyzing algorithms. The assignment covers a range of topics, including efficient selection algorithms, complexity analysis for both average and worst cases, and designing minimal operation sorting techniques. The problems challenge students to apply theoretical knowledge to practical algorithm design and to provide rigorous analysis of their solutions.
+
+
+--- 
+
+## [Homework 7](https://github.com/MarkShinozaki/CPTS350-Design-AnalysisOfAlgorithms/blob/Homeworks/Homework%207/Mark%20350%20HW%207.pdf)
+
+### Requirements:
+
+### 1. Karatsuba Algorithm Analysis:
+- The assignment includes questions regarding the Karatsuba algorithm, a fast multiplication algorithm that reduces the time complexity of multiplying large numbers. Students are required to understand the divide-and-conquer strategy used in Karatsuba and analyze its time complexity compared to traditional multiplication methods.
+
+### 2. Algorithm Design and Complexity Analysis:
+- Students must design algorithms for specific problems and analyze their time and space complexity. The focus is on optimizing the algorithms to achieve better performance and understanding the theoretical underpinnings of these optimizations.
+
+### 3. Problem-Solving with Constraints:
+- The assignment includes solving problems under specific constraints, such as limiting the number of operations or optimizing for worst-case scenarios. This requires a deep understanding of algorithmic principles and the ability to apply them creatively.
+
+### Topics:
+- **Karatsuba Algorithm:** A key focus is on understanding and applying the Karatsuba algorithm for fast multiplication, including analyzing its efficiency and comparing it to standard multiplication methods.
+- **Divide and Conquer:** The assignment emphasizes divide-and-conquer strategies, particularly in the context of the Karatsuba algorithm and other optimization problems.
+- **Complexity Analysis:** Detailed analysis of time and space complexity for various algorithms, with an emphasis on optimizing performance.
+
+### Summary:
+Homework 7 challenges students to apply advanced algorithmic concepts, particularly the Karatsuba algorithm, to solve complex problems efficiently. The assignment requires a strong grasp of divide-and-conquer techniques, algorithm design, and complexity analysis. Students must demonstrate their ability to optimize algorithms and understand the theoretical aspects of their performance.
+
+--- 
+
+
+## [Homework 8](https://github.com/MarkShinozaki/CPTS350-Design-AnalysisOfAlgorithms/blob/Homeworks/Homework%208/Scanned%20Documents%203.pdf)
+
+### Requirements:
+
+### 1. Graph Theory and Boolean Operations:
+- The assignment involves representing graphs using Boolean formulas and Binary Decision Diagrams (BDDs). Students must work with graphs encoded in BDDs and perform operations such as transitive closure to analyze reachability within the graph.
+
+### 2. Symbolic Representation and Computation:
+- The assignment requires coding in Python using the `pyEDA` library to handle BDDs and implement symbolic computations on graphs. Students need to construct BDDs for specific graph properties, compute relationships between nodes, and verify logical statements related to the graph's structure.
+
+### 3. Complex Logical Verification:
+- A critical part of the assignment is to verify a logical statement related to graph properties. Specifically, students need to determine whether, for each prime number node in the graph, there exists an even number node that is reachable in a positive even number of steps.
+
+### Topics:
+- **Graph Theory:** Focus on representing and analyzing graph structures using BDDs.
+- **Boolean Algebra:** Application of Boolean operations to represent and manipulate graph properties.
+- **Algorithm Design in Python:** Implementing symbolic algorithms using the `pyEDA` library for graph analysis.
+- **Transitive Closure:** Computing and using transitive closure to determine node reachability within graphs.
+
+### Summary:
+Assignment 8 emphasizes the application of symbolic methods in graph theory using BDDs. The task requires students to leverage Boolean operations and Python coding to analyze and verify complex properties of a graph. The assignment combines theoretical concepts from graph theory and Boolean algebra with practical algorithm design, providing a comprehensive exercise in symbolic computation and logical verification.
+
+
+
+
+
+
+
+
+
 
 
