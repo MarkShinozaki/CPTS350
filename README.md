@@ -223,8 +223,40 @@ Homework 7 challenges students to apply advanced algorithmic concepts, particula
 ### Summary:
 Assignment 8 emphasizes the application of symbolic methods in graph theory using BDDs. The task requires students to leverage Boolean operations and Python coding to analyze and verify complex properties of a graph. The assignment combines theoretical concepts from graph theory and Boolean algebra with practical algorithm design, providing a comprehensive exercise in symbolic computation and logical verification.
 
+---
 
+## [Homework 9](https://github.com/MarkShinozaki/CPTS350-Design-AnalysisOfAlgorithms/blob/Homeworks/Homework%209/Scanned%20Documents%204.pdf)
 
+## Requirements:
+
+### 1. Counting Paths in a DAG:
+- The first problem requires designing an efficient algorithm to count the number of paths between two designated nodes (`u` and `v`) in a Directed Acyclic Graph (DAG). This involves understanding and applying techniques to traverse and count paths in a graph without cycles.
+
+### 2. Counting "Good" Paths in a Colored DAG:
+- The second problem extends the first by introducing a condition where nodes in the DAG are labeled with colors. A "good" path is defined as one where the number of green nodes exceeds the number of yellow nodes. The task is to design an algorithm that efficiently counts such paths.
+
+### 3. Counting "Ugly" Paths in a Graph with Regular Expressions:
+- The third problem involves counting paths in a graph (which may have loops) based on a color sequence that satisfies a given regular expression. The task requires constructing a Cartesian product of the graph and the regular expression's automaton and then using this construction to count paths.
+
+### 4. Comparing Path Counts in Graphs with Loops:
+- The fourth problem asks students to sketch a method for comparing the number of paths in two graphs that may contain loops, where the count could be infinite. The problem hints at using the Perron-Frobenius theorem for this comparison.
+
+### 5. Control Flow Analysis in C-Programs:
+- The fifth problem involves analyzing the control flow of a C-program represented as a graph. The task is to sort the paths based on their count, even if some counts are infinite, and identify the node with the maximal path count. The problem also suggests writing a mini-paper on how this approach could aid in C-program testing.
+
+### 6. Binary String Counting with Regular Expressions:
+- The final problem, described as a job interview question, requires designing an efficient algorithm to compute the number of binary strings of length `n` that satisfy a specific regular expression. The problem is connected to the third problem and involves advanced pattern matching and counting techniques.
+
+### Topics:
+- **Graph Theory:** Path counting in DAGs, graphs with loops, and control flow analysis.
+- **Regular Expressions:** Using regular expressions to define constraints on paths within graphs.
+- **Algorithm Design:** Efficiently counting paths, handling infinite path counts, and applying these techniques to practical problems like program testing.
+- **Theoretical Computer Science:** Application of the Perron-Frobenius theorem in comparing path counts and solving complex counting problems.
+
+### Summary:
+Homework 9 is an advanced assignment that combines graph theory, regular expressions, and algorithm design to solve complex path-counting problems. The tasks range from counting paths in simple DAGs to analyzing paths in graphs with loops, where path counts may be infinite. The assignment emphasizes practical applications, such as testing C-programs and answering technical interview questions. It challenges students to apply theoretical knowledge creatively to solve intricate problems.
+
+---
 
 
 
