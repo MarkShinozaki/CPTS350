@@ -14,6 +14,11 @@
 - **Worst-case time complexity**: Analyzing how QuickSort behaves when the list is already sorted.
 - **Average-case time complexity**: Calculating expected performance for random inputs.
 
+#### [What is an Algorithm? - link to Youtube Video](https://www.youtube.com/watch?v=6hfOvs8pY1k)
+
+#### [Worst-case & Average-case Complexity - link to Youtube Video](https://www.youtube.com/watch?v=lj3E24nnPjI&pp=ygUkV29yc3QtY2FzZSAmIEF2ZXJhZ2UtY2FzZSBDb21wbGV4aXR5)
+
+
 ---
 
 ## 2. Sorting Algorithms
@@ -36,6 +41,12 @@
 - **Karatsuba algorithm**: Fast multiplication of large integers.
 - **Closest pair problem**: Finding the closest pair of points in a plane using divide and conquer.
 
+#### [Comparison-based Sorting - link to Youtube Video](https://www.youtube.com/watch?v=WffUZk1pgXE&pp=ygUYQ29tcGFyaXNvbiBiYXNlZCBzb3J0aW5n)
+#### [Quick_Select - link to Youtube Video](https://www.youtube.com/watch?v=AqMiMkPOutQ&pp=ygUWcXVpY2sgc2VsZWN0IGFsZ29yaXRobQ%3D%3D)
+#### [Merge Sort - link to Youtube Video](https://www.youtube.com/watch?v=4VqmGXwpLqc&pp=ygUVbWVyZ2Ugc29ydCBhbGdvcml0aG0g)
+#### [Karatsuba Algorithm - link to Youtube Video](https://www.youtube.com/watch?v=LCY4dnm88oI&pp=ygUTa2FyYXRzdWJhIGFsZ29yaXRobQ%3D%3D)
+
+
 ---
 
 ## 3. Dynamic Programming
@@ -50,6 +61,10 @@
 
 **LCS algorithm**: Finding the longest common subsequence in two DNA sequences.
 **Bioinformatics applications**: Protein structure prediction using dynamic programming.
+
+#### [Longest Common Subsequence (LCS) - link to Youtube Video](https://www.youtube.com/watch?v=sSno9rV8Rhg)
+#### [Needham Wunsch Algorithm - link to Youtube Video](https://www.youtube.com/watch?v=KDm25omb4Bg&pp=ygUmRHluYW1pYyBQcm9ncmFtbWluZyBmb3IgQmlvaW5mb3JtYXRpY3M%3D)
+
 
 ---
 
@@ -66,6 +81,10 @@
 - **Huffman code**: Creating an optimal prefix code for data compression.
 - **Greedy algorithm for scheduling**: Minimizing the maximum lateness of tasks.
 
+#### [Huffman Coding - link to Youtube Video](https://www.youtube.com/watch?v=JsTptu56GM8&pp=ygUOSHVmZm1hbiBDb2Rpbmc%3D)
+#### [Greedy Algorithms for scheduling - link to Youtube Video](https://www.youtube.com/watch?v=zPtI8q9gvX8&pp=ygUgR3JlZWR5IEFsZ29yaXRobXMgZm9yIHNjaGVkdWxpbmc%3D)
+
+
 ---
 
 ## 5. Amortized Analysis
@@ -80,6 +99,11 @@
 
 - **Dynamic array resizing**: Average-case cost of inserting elements.
 - **Aggregate method**: Summing costs over a series of operations.
+
+#### [Amortized Analysis Overview - link to Youtube Video](https://www.youtube.com/watch?v=L8cXZ_4RHt8&pp=ygUbQW1vcnRpemVkIEFuYWx5c2lzIE92ZXJ2aWV3)
+#### [Dynamic Array Resizing - link to Youtube Video](https://www.youtube.com/watch?v=xT70mHdAM74&pp=ygUWRHluYW1pYyBBcnJheSBSZXNpemluZw%3D%3D)
+
+
 
 ---
 
@@ -96,6 +120,10 @@
 - **DFS/BFS**: Traversing a social network graph.
 - **Shortest path**: Dijkstra’s algorithm for finding the shortest route between cities.
 
+#### [DFS & BFFS - link to Youtube Video](https://www.youtube.com/watch?v=pcKY4hjDrxk)
+#### [Dijkstra’s Algorithm - link to Youtube Video](https://www.youtube.com/watch?v=XB4MIexjvY0)
+
+
 ---
 
 ## 7. Advanced Graph Algorithms and Applications
@@ -110,6 +138,9 @@
 
 - **SCC**: Identifying connected regions in a network.
 - **Symbolic graphs**: Analyzing control flow in programs.
+
+#### [Strongly Connected Components (SCC) - link to Youtube Video](https://www.youtube.com/watch?v=R6uoSjZ2imo&pp=ygUjU3Ryb25nbHkgQ29ubmVjdGVkIENvbXBvbmVudHMgKFNDQyk%3D)
+#### [Symbolic Graphs / Graphs - link to Youtube Video](https://www.youtube.com/watch?v=PZBm7M0HGzw&pp=ygUTU3ltYm9saWMgR3JhcGhzIGNzIA%3D%3D)
 
 ---
 
@@ -126,6 +157,8 @@
 - **RSA algorithm**: Public-key encryption based on the difficulty of factoring large numbers.
 - **Modular arithmetic**: Operations in RSA and Diffie-Hellman key exchange.
 
+#### [RSA Encryption Algorithm - link to Youtube Video](https://www.youtube.com/watch?v=wXB-V_Keiu8)
+#### [Modular Arithmetic for Cryptography - link to Youtube Video](https://www.youtube.com/watch?v=Eg6CTCu8iio&pp=ygUjTW9kdWxhciBBcml0aG1ldGljIGZvciBDcnlwdG9ncmFwaHk%3D)
 ---
 
 ## 9. NP-Completeness
@@ -141,6 +174,8 @@
 - **SAT problem**: Determining if a Boolean formula can be satisfied.
 - **3SAT**: A specific case of SAT where each clause has exactly three literals.
 
+#### [NP-Completeness Introduction - link to Youtube Video](https://www.youtube.com/watch?v=eHZifpgyH_4)
+#### [SAT and 3SAT - link to Youtube Video](https://www.youtube.com/watch?v=ylItc6O3A4Y&pp=ygUMU0FUIGFuZCAzU0FU)
 ---
 
 ## 10. Automata-Theoretic Algorithms
@@ -156,6 +191,9 @@
 - **Finite automata**: Recognizing regular languages.
 - **Pattern matching**: Using automata for text search.
 
+#### [Finite Automata  - link to Youtube Video](https://www.youtube.com/watch?v=Qa6csfkK7_I&pp=ygUPZmluaXRlIGF1dG9tYXRh)
+#### [Pattern Matching using Automata  - link to Youtube Video](https://www.youtube.com/watch?v=JF48ymcpEzY&pp=ygUfUGF0dGVybiBNYXRjaGluZyB1c2luZyBBdXRvbWF0YQ%3D%3D)
+
 ---
 
 ## 11. Algorithmic Applications in Real World Scenarios
@@ -170,6 +208,10 @@
 - **Bioinformatics**: DNA sequence alignment.
 - **Network design**: Optimizing routing algorithms in communication networks.
 - **Cryptography**: Secure data transmission using RSA.
+
+
+#### [Network Design Algorithms  - link to Youtube Video](https://www.youtube.com/watch?v=XPpmzulEmjA&pp=ygUZTmV0d29yayBEZXNpZ24gQWxnb3JpdGhtcw%3D%3D)
+
 
 ---
 
@@ -190,6 +232,11 @@
 - **Master Theorem**: Analyzing Merge Sort’s time complexity.
 - **Solving recurrences**: T(n) = 2T(n/2) + O(n).
 
+#### [Master Theorem - link to Youtube Video](https://www.youtube.com/watch?v=d-gIGFxewW4&pp=ygUObWFzdGVyIHRoZW9yZW0%3D)
+#### [Solving Recuurences - link to Youtube Video](https://www.youtube.com/watch?v=yX0SC-EXz98&pp=ygUWc29sdmluZyByZWN1cnJlbmNlcyBjcw%3D%3D)
+
+
+
 ---
 
 ## 13. Heaps and Heap Sort
@@ -204,6 +251,9 @@
 
 - **Binary heaps**: Implementing a priority queue for scheduling.
 - **Heap Sort**: Sorting an array in O(n log n) time.
+
+#### [Binary Heaps - link to Youtube Video](https://www.youtube.com/watch?v=AE5I0xACpZs&pp=ygUMQmluYXJ5IEhlYXBz)
+#### [Heap Sort  - link to Youtube Video](https://www.youtube.com/watch?v=2DmK_H7IdTo&pp=ygUJSGVhcCBzb3J0)
 
 ---
 
@@ -220,6 +270,9 @@
 - **Sequence alignment**: Aligning DNA sequences in a phylogenetic tree.
 - **Phylogenetic trees**: Reconstructing evolutionary histories.
 
+#### [Dynamic Programming in Trees - link to Youtube Video](https://www.youtube.com/watch?v=s2Yyk3qdy3o&pp=ygUcRHluYW1pYyBQcm9ncmFtbWluZyBpbiBUcmVlcw%3D%3D)
+
+
 ---
 
 ## 15. Divide and Conquer Approaches
@@ -235,6 +288,8 @@
 - **Strassen’s algorithm**: Efficient matrix multiplication.
 - **Karatsuba algorithm**: Multiplying large numbers faster than the classical approach.
 
+#### [Strassen’s Algorithm  - link to Youtube Video](https://www.youtube.com/watch?v=0oJyNmEbS4w&pp=ygUWU3RyYXNzZW7igJlzIEFsZ29yaXRobQ%3D%3D)
+
 ---
 
 ## 16. Advanced Topics in Greedy Algorithms
@@ -249,6 +304,9 @@
 
 - **Minimum spanning tree**: Kruskal’s and Prim’s algorithms.
 - **Scheduling problems**: Interval scheduling maximization.
+
+
+#### [Greedy Scheduling](https://www.youtube.com/watch?v=4ZlRH0eK-qQ)
 
 ---
 
