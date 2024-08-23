@@ -306,7 +306,7 @@
 - **Scheduling problems**: Interval scheduling maximization.
 
 
-#### [Greedy Scheduling](https://www.youtube.com/watch?v=4ZlRH0eK-qQ)
+#### [Greedy Scheduling - link to Youtube Video](https://www.youtube.com/watch?v=4ZlRH0eK-qQ)
 
 ---
 
