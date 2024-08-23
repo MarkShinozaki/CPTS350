@@ -12,6 +12,7 @@
 
 ---
 ### 3. [Lectures-Notes](https://github.com/MarkShinozaki/CPTS350-Design-AnalysisOfAlgorithms/tree/Lecture-Notes)
+
 --- 
 ### 4. [Homeworks](https://github.com/MarkShinozaki/CPTS350-Design-AnalysisOfAlgorithms/tree/Homeworks)
 
