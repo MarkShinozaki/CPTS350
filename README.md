@@ -7,22 +7,21 @@
 ### NAVIGATION OF ALL MATERIAL 
 
 ### 1. [Course Information](https://github.com/MarkShinozaki/CPTS350-Design-AnalysisOfAlgorithms/tree/Course-Information)
-
 ---
-
-### 2. [Lectures-Notes](https://github.com/MarkShinozaki/CPTS350-Design-AnalysisOfAlgorithms/tree/Lecture-Notes)
-
-
-
-
+### 2. [Additional Resources](https://github.com/MarkShinozaki/CPTS350-Design-AnalysisOfAlgorithms/tree/Additional-Resources)
+---
+### 3. [Lectures-Notes](https://github.com/MarkShinozaki/CPTS350-Design-AnalysisOfAlgorithms/tree/Lecture-Notes)
 --- 
 ### 3. [Homeworks](https://github.com/MarkShinozaki/CPTS350-Design-AnalysisOfAlgorithms/tree/Homeworks)
-
+---
+### 4. [Project](https://github.com/MarkShinozaki/CPTS350-Design-AnalysisOfAlgorithms/tree/Project)
+---
+### 5. [Sample Exam Questions](https://github.com/MarkShinozaki/CPTS350-Design-AnalysisOfAlgorithms/tree/Exams)
 
 --- 
 
 > [!IMPORTANT]
-> ***This Course is meant to introduce you to introduce students to CyberSecurity and cryptography skills and procedures***
+> ***This Course is meant to introduce you to ***
 > ***The Work and Material in this Repo is meant to provide assistance, there is a possiblity that a few things here and there are not correct so please check all contents yourself***
 
 > [!CAUTION]
@@ -30,4 +29,4 @@
 
 ---
 
-### [Next Course - CPTS 355 -  ](https://github.com/MarkShinozaki/CPTS355-ProgramLanguageDesign)
+### [Next Course - CPTS 355 - Program Language Design (Python/Hashell)  ](https://github.com/MarkShinozaki/CPTS355-ProgramLanguageDesign)
